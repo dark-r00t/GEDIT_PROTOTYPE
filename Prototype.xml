@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<style-scheme id="prototype" _name="Prototype" version="1.0">
+  <author>Jan Darge ~ github.com/jdarge</author>
+  <_description>Intended For C Programming</_description>
+
+  <style name="bracket-match"  background="#2edbac" foreground="#1f1f1f" bold="true"/> <!-- bracket highlighting on open/close pair  -->
+  <style name="bracket-mismatch"  background="#f8f8f8" underline="true"/>
+  <style name="css:at-rules" foreground="#ffaa00" bold="true"/>
+  <style name="css:color" foreground="#ff3a55"/>
+  <style name="css:keyword" foreground="#9df39f"/>
+  <style name="current-line"  background="#f8f8f8"/>
+  <style name="cursor" foreground="#8ba7a7"/>
+  <style name="def:base-n-integer" foreground="#ff3a55"/>
+  <style name="def:boolean" foreground="#ff3a55"/>
+  <style name="def:builtin" foreground="#84bee2"/>
+  <style name="def:character" foreground="#a9e448"/>
+  <style name="def:comment" foreground="#60606d" italic="true"/>
+  <style name="def:complex" foreground="#ff3a55"/>
+  <style name="def:constant" foreground="#ff3a55"/>
+  <style name="def:decimal" foreground="#ff3a55"/>
+  <style name="def:doc-comment" foreground="#60606d" italic="true"/>
+  <style name="def:doc-comment-element" foreground="#60606d" italic="true"/>
+  <style name="def:error" foreground="#f8f8f8" background="#a4210c"/>
+  <style name="def:floating-point" foreground="#ff3a55"/>
+  <style name="def:function" foreground="#fffb00" bold="true"/>
+  <style name="def:identifier" foreground="#fb9a4b"/>
+  <style name="def:keyword" foreground="#ffaa00" bold="true"/>
+  <style name="def:note" foreground="#60606d" italic="true"/>
+  <style name="def:number" foreground="#ff3a55"/>
+  <style name="def:operator" foreground="#ffaa00" bold="true"/>
+  <style name="def:preprocessor" foreground="#86ec59"/> <!-- i.e. #include  -->
+  <style name="def:reserved" foreground="#ffaa00" bold="true"/>
+  <style name="def:shebang" foreground="#60606d" italic="true"/>
+  <style name="def:special-char" foreground="#9df39f"/>
+  <style name="def:special-constant" foreground="#ff3a55"/>
+  <style name="def:statement" foreground="#ffaa00" bold="true"/>
+  <style name="def:string" foreground="#d8a2f0"/> <!-- i.e. "any string"  -->
+  <style name="def:type" foreground="#84bee2"/>
+  <style name="diff:added-line" foreground="#f8f8f8" background="#41a83e"/>
+  <style name="diff:changed-line" foreground="#f8f8f8" background="#c4b14a"/>
+  <style name="diff:location" foreground="#f8f8f8" background="#0e2231" italic="true"/>
+  <style name="diff:removed-line" foreground="#f8f8f8" background="#d03620"/>
+  <style name="draw-spaces" foreground="#484848"/>
+  <style name="html:dtd" foreground="#d8a2f0"/>
+  <style name="html:tag" foreground="#f1972f"/>
+  <style name="js:function" foreground="#ffb454"/>
+  <style name="line-numbers" foreground="#f3f3f3" background="000000"/>
+<!--
+  <style name="python:builtin-constant" foreground="#ffaa00" bold="true"/>
+  <style name="python:builtin-function" foreground="#ff3a55"/>
+  <style name="python:builtin-object" foreground="#ff3a55"/>
+  <style name="python:module-handler" foreground="#ffaa00" bold="true"/>
+  <style name="python:special-variable" foreground="#ffaa00" bold="true"/>
+-->
+  <style name="search-match"  background="#f8f8f8" bold="true" underline="true"/>
+  <style name="selection" foreground="#f3f3f3" background="#605f5f"/>
+  <style name="text" foreground="#f3f3f3" background="#0b0a0a"/>
+  <style name="xml:attribute-name" foreground="#2edbac" bold="true"/>
+  <style name="xml:doctype" foreground="#f1972f"/>
+  <style name="xml:element-name" foreground="#2edbac" bold="true"/>
+  <style name="xml:entity" foreground="#73817d"/>
+  <style name="xml:namespace" foreground="#2edbac" bold="true"/>
+  <style name="xml:tag" foreground="#f1972f"/>
+  
+
+</style-scheme>
+
