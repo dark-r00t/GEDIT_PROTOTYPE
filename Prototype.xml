@@ -61,11 +61,14 @@
 -->
 
   <style name="xml:attribute-name" foreground="#2edbac" bold="true"/>
+  <style name="xml:attribute-value" use-style="def:string" />
+  <style name="xml:comment" use-style="def:comment" />
   <style name="xml:doctype" foreground="#f1972f"/>
-  <style name="xml:element-name" foreground="#2edbac" bold="true"/>
+  <style name="xml:element-name" use-style="def:keyword" />
   <style name="xml:entity" foreground="#73817d"/>
+  <style name="xml:error" use-style="def:error" />
   <style name="xml:namespace" foreground="#2edbac" bold="true"/>
+  <style name="xml:processing-instruction" use-style="def:preprocessor" />
   <style name="xml:tag" foreground="#f1972f"/>
-  
-
+ 
 </style-scheme>
