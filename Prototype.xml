@@ -14,39 +14,39 @@
   <style name="def:boolean" foreground="#ff3a55"/>
   <style name="def:builtin" foreground="#84bee2"/>
   <style name="def:character" foreground="#a9e448"/>
-  <style name="def:comment" foreground="#60606d" italic="true"/>
+  <style name="def:comment" foreground="#e11717" italic="true"/>
   <style name="def:complex" foreground="#ff3a55"/>
   <style name="def:constant" foreground="#ff3a55"/>
   <style name="def:decimal" foreground="#ff3a55"/>
-  <style name="def:doc-comment" foreground="#60606d" italic="true"/>
-  <style name="def:doc-comment-element" foreground="#60606d" italic="true"/>
-  <style name="def:error" foreground="#f8f8f8" background="#a4210c"/>
+  <style name="def:doc-comment" foreground="#e11717" italic="true"/>
+  <style name="def:doc-comment-element" foreground="#e11717" italic="true"/>
+  <style name="def:error" foreground="#505050" background="#a4210c"/>
   <style name="def:floating-point" foreground="#ff3a55"/>
   <style name="def:function" foreground="#fffb00" bold="true"/>
   <style name="def:identifier" foreground="#fb9a4b"/>
   <style name="def:keyword" foreground="#ffaa00" bold="true"/>
-  <style name="def:note" foreground="#60606d" italic="true"/>
+  <style name="def:note" foreground="#e11717" italic="true"/>
   <style name="def:number" foreground="#ff3a55"/>
   <style name="def:operator" foreground="#ffaa00" bold="true"/>
   <style name="def:preprocessor" foreground="#86ec59"/> <!-- i.e. #include  -->
   <style name="def:reserved" foreground="#ffaa00" bold="true"/>
-  <style name="def:shebang" foreground="#60606d" italic="true"/>
+  <style name="def:shebang" foreground="#e11717" italic="true"/>
   <style name="def:special-char" foreground="#9df39f"/>
   <style name="def:special-constant" foreground="#ff3a55"/>
   <style name="def:statement" foreground="#ffaa00" bold="true"/>
   <style name="def:string" foreground="#d8a2f0"/> <!-- i.e. "any string"  -->
   <style name="def:type" foreground="#84bee2"/>
   
-  <style name="diff:added-line" foreground="#f8f8f8" background="#41a83e"/>
-  <style name="diff:changed-line" foreground="#f8f8f8" background="#c4b14a"/>
-  <style name="diff:location" foreground="#f8f8f8" background="#0e2231" italic="true"/>
-  <style name="diff:removed-line" foreground="#f8f8f8" background="#d03620"/>
+  <style name="diff:added-line" foreground="#505050" background="#41a83e"/>
+  <style name="diff:changed-line" foreground="#505050" background="#c4b14a"/>
+  <style name="diff:location" foreground="#505050" background="#0e2231" italic="true"/>
+  <style name="diff:removed-line" foreground="#505050" background="#d03620"/>
   
   <style name="draw-spaces" foreground="#484848"/>
   
   <style name="line-numbers" foreground="#f3f3f3" background="000000"/>
 
-  <style name="search-match"  background="#f8f8f8" bold="true" underline="true"/>
+  <style name="search-match"  background="#505050" bold="true" underline="true"/>
   
   <style name="selection" foreground="#f3f3f3" background="#605f5f"/>
   
@@ -69,4 +69,3 @@
   
 
 </style-scheme>
-
