@@ -1,2 +1,3 @@
 # GEDIT_PROTOTYPE
-~/.local/share/gedit/styles
+Place file in: ~/.local/share/gedit/styles
+Re-open gedit: Edit -> Preferences -> Fonts & Colors -> Prototype
